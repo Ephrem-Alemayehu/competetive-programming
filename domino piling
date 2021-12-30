@@ -1,0 +1,4 @@
+m = int(input("enter the first number "))
+n=int(input("enter the second number "))
+k=(m*n)//2
+print(k)
